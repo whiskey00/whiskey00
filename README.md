@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=whiskey00&fontSize=56&fontColor=ffffff&fontAlignY=50&desc=Automation%20Engineer%20·%20Developer%20·%20Builder&descSize=16&descAlignY=68&descColor=e0e0e0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=whiskey00&fontSize=56&fontColor=ffffff&fontAlignY=60" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=e0e0e0&center=true&vCenter=true&width=435&lines=Automation+Engineer;Full+Stack+Developer;Android+Dev;Firmware+Tinkerer" />
 </div>
 
 <br/>
@@ -25,7 +27,6 @@
 
 ---
 
-**Activity**
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=whiskey00&theme=tokyo-night&hide_border=true"/>
 </div>
