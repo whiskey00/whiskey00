@@ -25,5 +25,5 @@
 
 ---
 
-Automation Engineer @ RDF Feed · CS grad · Building things on the side.  
+Automation Engineer | Frontend Developer· CS grad · Building things on the side.  
 Into firmware, Android internals, and reverse engineering when I'm not writing prod code.
